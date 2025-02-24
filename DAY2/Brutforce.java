@@ -22,7 +22,7 @@ public class Brutforce {
                 }
 
                 // Print the sum of the current subarray
-                System.out.println("Current subarray sum: " + cursum);
+//                System.out.println("Current subarray sum: " + cursum);
 
                 // Update maxsum if the current subarray sum is greater
                 if (maxsum < cursum) {
